@@ -239,6 +239,7 @@ There are certainly books on this list that have influeneced me more than others
 * To Engineer Is Human :heavy_minus_sign: Petroski
 * Rocket Men :heavy_minus_sign: Craig Nelson
 * Roving Mars: Spirit, Opportunity and the Red Planet :heavy_minus_sign: Steve Squyers
+* Quantum Supremacy: How Quantum Computers will Unlock the Mysteries of Science – and Address Humanity’s Biggest Challenges:heavy_minus_sign: Michio Kaku
   
 
 ## Financial
